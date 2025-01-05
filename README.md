@@ -14,7 +14,7 @@ Taski é um aplicativo Flutter para gerenciamento de tarefas com persistência l
 
 ---
 
-## 📋 Bonús
+## 📋 Bônus
 
 ✅ Clean Code
 ✅ Arquitetura MVVM
