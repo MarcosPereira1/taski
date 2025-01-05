@@ -16,7 +16,7 @@ Taski é um aplicativo Flutter para gerenciamento de tarefas com persistência l
 
 ## 📋 Bonús
 
-✅  Clean Code
+✅ Clean Code
 ✅ Arquitetura MVVM
 ✅ Testes Unitários 
 
@@ -47,7 +47,7 @@ Certifique-se de ter as seguintes ferramentas instaladas:
    Clone o repositório do projeto para o seu ambiente local:
 
    ```bash
-   git clone [https://github.com/seu-usuario/taski.git](https://github.com/MarcosPereira1/taski.git)
+   git clone (https://github.com/MarcosPereira1/taski.git)
    cd taski
 2. **Instale as Dependências**
 
